@@ -1,0 +1,6 @@
+name: OreReplacer
+version: '${version}'
+
+main: com.spheroidon.oreReplacer.OreReplacer
+api-version: '26.3'
+load: POSTWORLD
